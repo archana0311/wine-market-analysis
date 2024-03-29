@@ -9,6 +9,7 @@ Taste(keywords)-450
 A detailed anaysis of the Database Vivino can be found in the notebook- Analysis.
 
 The focus is there to answer the following question:
+
 ** The top 10 wines to focus on for  increasing the sales.
 
 ** Country to prioritise for promtions, when there is a limited budget.
