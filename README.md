@@ -10,10 +10,15 @@ A detailed anaysis of the Database Vivino can be found in the notebook- Analysis
 
 The focus is there to answer the following question:
 ** The top 10 wines to focus on for  increasing the sales.
+
 ** Country to prioritise for promtions, when there is a limited budget.
+
 ** The best wineries to be nominated for the awards.
+
 ** To formulate clusters for consumers with specific requirement for a  combination of tastes. 
+
 ** Top 3 most common grape's all over the world.
+
 ** The 5 best rated wines for the most common grape's type.**
 ** Country leaderboard.**
 ** Top 5 recommendations for the consumers.
