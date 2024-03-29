@@ -27,4 +27,5 @@ The focus is there to answer the following question:
 The report will help you know the details and availabilty in the world of wine and also in taking decision for your choice of wine!!
 Cheers!!!
 
-![Celebrate with friends & family](/assets/images/Cheers.jpg)
+![Celebrate with friends & family](wine-market-analysis/assets
+/Cheers.jpg)
