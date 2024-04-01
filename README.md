@@ -1,5 +1,6 @@
 Analysis report of global wine market 
-A market research is conducted for 17 Countries globally from different continents to study the Wine market in detail. In total of 1020 Wineries are analysed. Its interesting to know that most of the wineries have only one set up. Only 51 wineries have more than one set up. Below table represents a few wineries with 5 or more set-up.
+A market research is conducted for 17 Countries globally from different continents to study the Wine market in detail. In total of 1020 Wineries are analysed. Its interesting to know that most of the wineries have only one set up. Only 51 wineries have more than one set up.
+
 Intersetingly its found that in wineries, they are using
 
 Varieties of grapes-21
